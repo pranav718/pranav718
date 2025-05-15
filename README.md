@@ -4,8 +4,8 @@
   <img src="https://i.pinimg.com/564x/06/2e/6c/062e6c9ac3cb3304c0d44acb4fb04e69.jpg" height="300" alt="Knight Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
 
-<h3 align="center">Currently Learning Web Development</h3>
-<h3 align="center">Grinding Leetcode Along the Way</h3>
+<h3 align="center">Learning Web Development</h3>
+<h3 align="center">Leetcoding</h3>
 
 ---
 
