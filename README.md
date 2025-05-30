@@ -1,28 +1,32 @@
-<h1 align="center">Knight<br>騎士</h1>
+### Hey there 👋
 
-<p align="center">
-  <img src="https://i.pinimg.com/564x/06/2e/6c/062e6c9ac3cb3304c0d44acb4fb04e69.jpg" height="300" alt="Knight Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+<p align="left">
+  <img src="https://profile-counter.glitch.me/pranav718/count.svg" alt="Visitor count" />
 </p>
 
-<h3 align="center">Learning Web Development</h3>
-<h3 align="center">Leetcoding</h3>
+I’m Pranav Ray, cs undergrad (2028)
+
+- Currently doing web2 development
+- Did ios development with SwiftUI
+- I also do competitive programming
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
 ---
 
+### Social Media Profile
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-</p>
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/knightkun__)
 
+---
 
+### Coding Profile
+
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/knightkun__/)
 
 
 
