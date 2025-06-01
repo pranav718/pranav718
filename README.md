@@ -16,6 +16,8 @@ I’m Pranav Ray, cs undergrad (2028)
   <img src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=pranav718&layout=compact&count_private=true&theme=radical)](#)
+
 ---
 
 ### Social Media Profile
