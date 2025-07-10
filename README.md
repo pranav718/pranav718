@@ -1,8 +1,7 @@
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=oranav718" alt = "pranav718" /> </p>
+
 ### Hey there 👋
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/pranav718/count.svg" alt="Visitor count" />
-</p>
 
 I’m Pranav Ray, cs undergrad (2028)
 
