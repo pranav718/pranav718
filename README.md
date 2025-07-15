@@ -12,8 +12,8 @@ I’m Pranav Ray, cs undergrad (2028)
 ### GitHub Stats
 
 <div style="display: flex; gap: 1rem; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=radical" alt="GitHub stats" style="height: 200px;" />
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=pranav718&layout=compact&count_private=true&theme=radical" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=dark" alt="GitHub stats" style="height: 200px;" />
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=pranav718&layout=compact&count_private=true&theme=dark" style="height: 200px;" />
 </div>
 
 
