@@ -3,11 +3,9 @@
 ### Hey there 👋
 
 
-I’m Pranav Ray, cs undergrad (2028)
-
-- Currently doing web2 development
-- Did ios development with SwiftUI
-- I also do competitive programming
+I’m Pranav Ray
+>
+>I build stacks, craft apps, and enjoy algorithms
 
 ---
 
