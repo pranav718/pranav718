@@ -1,6 +1,6 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pranav718" alt = "pranav718" /> </p>
 
-### Hey there 👋
+### Hey there !!
 
 
 I’m Pranav Ray
