@@ -4,8 +4,8 @@
 
 
 I’m Pranav Ray
->
->I build stacks, craft apps, and enjoy algorithms
+
+>mostly building projects, oss, check below repos
 
 ---
 
