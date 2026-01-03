@@ -33,6 +33,7 @@ I’m Pranav Ray
 
 ### Coding Profile
 
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange" />](https://leetcode.com/pranav718/)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/knightkun__/)
 
 
